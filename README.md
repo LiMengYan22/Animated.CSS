@@ -1,2 +1,2 @@
 # Animated.CSS
-**CSS animado** con CSS3, *cheetshet*
+**CSS animado** con CSS3, *(cheetshet)*
